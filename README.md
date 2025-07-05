@@ -25,8 +25,8 @@
 <p align="center">
 	
 
-[![alexcamacho0425@gmail.com](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](...)
-[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](...)
+[![https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](...)
+[![https://github.com/alexcamacho025](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](...)
 [![https://www.linkedin.com/in/alex-mauricio-camacho-murillo-46a66b250/](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-mauricio-camacho-murillo-46a66b250/)
 
 </p>
