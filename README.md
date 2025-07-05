@@ -29,8 +29,6 @@
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](...)
 [![https://www.linkedin.com/in/alex-mauricio-camacho-murillo-46a66b250/](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-mauricio-camacho-murillo-46a66b250/)
 
-	</a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
 
 
