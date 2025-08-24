@@ -114,6 +114,7 @@
 🔢 [Calculadora en C#](https://github.com/alexcamacho025/Calculadora-en-C-)  
 🎲 [ProyectoCSsharp](https://github.com/alexcamacho025/MiProyectoCSharp)  
 📊 [Sistemas de Estudiantes](https://github.com/alexcamacho025/sistema-estudiantes)  
+   [Gestor de Tareas para Estudiantes](https://github.com/alexcamacho025/Gestor-de-Tareas.Estudiantes)
 ----
 	
 
