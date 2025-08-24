@@ -111,9 +111,9 @@
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 
-🔢 [Calculadora en C#](https://github.com/alexcamacho025/Calculadora-en-C)  
+🔢 [Calculadora en C#](https://github.com/alexcamacho025/Calculadora-en-C-)  
 🎲 [ProyectoCSsharp](https://github.com/alexcamacho025/MiProyectoCSharp)  
-📊 [Calculadora de Promedios](https://github.com/alexcamacho025/sistema-estudiantes)  
+📊 [Sistemas de Estudiantes](https://github.com/alexcamacho025/sistema-estudiantes)  
 ----
 	
 
